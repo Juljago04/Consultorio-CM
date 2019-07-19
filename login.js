@@ -16,7 +16,7 @@
 function back() {
     alert("ok");
 }
-function XXX() {
+function display() {
     var xx = document.getElementById('xx');
     if (xx.style.display == "none") {
         xx.style.display = "initial";
